@@ -1,0 +1,13 @@
+C:\Users\RYZEN\source\repos\PIpeertopeer\PIpeertopeer\bin\Debug\PIpeertopeer.exe.config
+C:\Users\RYZEN\source\repos\PIpeertopeer\PIpeertopeer\bin\Debug\PIpeertopeer.exe
+C:\Users\RYZEN\source\repos\PIpeertopeer\PIpeertopeer\bin\Debug\PIpeertopeer.pdb
+C:\Users\RYZEN\source\repos\PIpeertopeer\PIpeertopeer\bin\Debug\Transitions.dll
+C:\Users\RYZEN\source\repos\PIpeertopeer\PIpeertopeer\bin\Debug\Transitions.pdb
+C:\Users\RYZEN\source\repos\PIpeertopeer\PIpeertopeer\obj\Debug\PIpeertopeer.csprojAssemblyReference.cache
+C:\Users\RYZEN\source\repos\PIpeertopeer\PIpeertopeer\obj\Debug\PIpeertopeer.Form1.resources
+C:\Users\RYZEN\source\repos\PIpeertopeer\PIpeertopeer\obj\Debug\PIpeertopeer.Properties.Resources.resources
+C:\Users\RYZEN\source\repos\PIpeertopeer\PIpeertopeer\obj\Debug\PIpeertopeer.csproj.GenerateResource.cache
+C:\Users\RYZEN\source\repos\PIpeertopeer\PIpeertopeer\obj\Debug\PIpeertopeer.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\source\repos\PIpeertopeer\PIpeertopeer\obj\Debug\PIpeertopeer.csproj.CopyComplete
+C:\Users\RYZEN\source\repos\PIpeertopeer\PIpeertopeer\obj\Debug\PIpeertopeer.exe
+C:\Users\RYZEN\source\repos\PIpeertopeer\PIpeertopeer\obj\Debug\PIpeertopeer.pdb
